@@ -2769,3 +2769,318 @@ Sampler Limit: 32
 [2026.01.26-01.26.56:368][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
 [2026.01.26-01.26.56:399][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
 [2026.01.26-01.26.56:455][935]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.01.26-01.27.35:388][502]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/Player_HP.Player_HP
+[2026.01.26-01.27.35:388][502]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.01.26-01.27.35:394][502]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.01.26-01.27.40:335][773]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.26-01.27.43:287][948]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.26-01.27.46:641][143]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.26-01.27.50:414][367]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.26-01.28.05:785][262]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.26-01.28.10:292][527]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.26-01.28.23:930][299]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.01.26-01.28.38:655][175]LogEditorTransaction: Undo Edit Right
+[2026.01.26-01.29.01:450][512]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 996.964661
+[2026.01.26-01.29.01:667][526]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.26-01.29.01:667][526]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 997.164673, Update Interval: 349.287994
+[2026.01.26-01.29.06:518][808]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.01.26-01.29.06:753][818]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.01.26-01.29.06:888][823]LogEditorTransaction: Undo Edit Bottom
+[2026.01.26-01.29.07:051][830]LogEditorTransaction: Undo Edit Right
+[2026.01.26-01.29.07:374][848]LogEditorTransaction: Undo Edit Bottom
+[2026.01.26-01.29.07:679][865]LogEditorTransaction: Undo Edit Right
+[2026.01.26-01.29.07:999][883]LogEditorTransaction: Undo Edit Bottom
+[2026.01.26-01.29.08:404][906]LogEditorTransaction: Undo Edit Right
+[2026.01.26-01.29.27:056][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.01.26-01.29.27:409][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-01.29.27:434][ 15]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Widgets/Player_HP] ([2] browsable assets)...
+[2026.01.26-01.29.27:441][ 15]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Widgets/Player_HP.Player_HP]
+[2026.01.26-01.29.27:441][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/Player_HP]
+[2026.01.26-01.29.27:444][ 15]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/Player_HP
+[2026.01.26-01.29.27:445][ 15]LogSavePackage: Moving '../../../../../../Users/Yunus/OneDrive/Desktop/GitHub Repos/BoneFrenzy/RogueLike_Beat/Saved/Player_HPD473A1E94F962B21A4402583A1802153.tmp' to '../../../../../../Users/Yunus/OneDrive/Desktop/GitHub Repos/BoneFrenzy/RogueLike_Beat/Content/Blueprints/Widgets/Player_HP.uasset'
+[2026.01.26-01.29.27:452][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.006 ms (total: 943.362 ms)
+[2026.01.26-01.29.27:478][ 15]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-01.29.27:478][ 15]LogContentValidation: Enabled validators:
+[2026.01.26-01.29.27:478][ 15]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-01.29.27:478][ 15]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-01.29.27:478][ 15]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-01.29.27:478][ 15]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-01.29.27:478][ 15]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-01.29.27:478][ 15]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-01.29.27:479][ 15]AssetCheck: /Game/Blueprints/Widgets/Player_HP Validating asset
+[2026.01.26-01.29.28:907][101]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.01.26-01.29.28:914][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.26-01.29.28:914][101]LogPlayLevel: Creating play world package: /Game/NewFolder/UEDPIE_0_MainLevel
+[2026.01.26-01.29.28:919][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004241s)
+[2026.01.26-01.29.28:919][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewFolder/MainLevel.MainLevel to /Game/NewFolder/UEDPIE_0_MainLevel.MainLevel (0.004267s)
+[2026.01.26-01.29.28:936][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.01.26-01.29.28:938][101]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.01.26-01.29.28:939][101]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2026.01.26-01.29.28:940][101]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.01.26-01.29.28:940][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.26-01.29.28:940][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.26-01.29.28:940][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.26-01.29.28:940][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.26-01.29.28:940][101]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.26-01.29.28:940][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.26-01.29.28:940][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.26-01.29.28:940][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.26-01.29.28:940][101]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.26-01.29.28:940][101]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.26-01.29.28:940][101]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.26-01.29.28:942][101]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.26-01.29.29:077][101]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.01.26-01.29.29:077][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.26-01.29.29:077][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.26-01.29.29:077][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.26-01.29.29:078][101]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.01.26-01.29.29:078][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.01.26-01.29.29:080][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.01.26-01.29.29:080][101]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.01.26-01.29.29:080][101]LogInit: FAudioDevice initialized with ID 13.
+[2026.01.26-01.29.29:080][101]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainLevel'.
+[2026.01.26-01.29.29:080][101]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.01.26-01.29.29:106][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-01.29.29:107][101]LogLoad: Game class is 'BP_GameMode_C'
+[2026.01.26-01.29.29:108][101]LogWorld: Bringing World /Game/NewFolder/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2026.01.26-04.29.29
+[2026.01.26-01.29.29:109][101]LogWorld: Bringing up level for play took: 0.002063
+[2026.01.26-01.29.29:111][101]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2026.01.26-01.29.29:116][101]PIE: Server logged in
+[2026.01.26-01.29.29:116][101]PIE: Play in editor total start time 0.201 seconds.
+[2026.01.26-01.29.29:119][101]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Background'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.01.26-01.29.33:759][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-01.29.33:759][280]LogWorld: BeginTearingDown for /Game/NewFolder/UEDPIE_0_MainLevel
+[2026.01.26-01.29.33:760][280]LogSlate: Window 'RogueLike_Beat Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.01.26-01.29.33:803][280]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.29.33:804][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.29.33:813][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.26-01.29.33:817][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.29.33:838][280]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.26-01.29.33:838][280]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.01.26-01.29.33:838][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2026.01.26-01.29.33:841][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2026.01.26-01.29.33:849][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.01.26-01.29.33:888][281]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2026.01.26-01.29.35:654][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.01.26-01.29.36:470][386]LogSlate: Window 'Save Content' being destroyed
+[2026.01.26-01.29.36:489][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-01.29.36:522][386]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Papaz] ([2] browsable assets)...
+[2026.01.26-01.29.36:524][386]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Papaz.Papaz]
+[2026.01.26-01.29.36:524][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Papaz]
+[2026.01.26-01.29.36:524][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Papaz" FILE="../../../../../../Users/Yunus/OneDrive/Desktop/GitHub Repos/BoneFrenzy/RogueLike_Beat/Content/Blueprints/Papaz.uasset" SILENT=true
+[2026.01.26-01.29.36:527][386]LogSavePackage: Moving output files for package: /Game/Blueprints/Papaz
+[2026.01.26-01.29.36:527][386]LogSavePackage: Moving '../../../../../../Users/Yunus/OneDrive/Desktop/GitHub Repos/BoneFrenzy/RogueLike_Beat/Saved/Papaz47ADA96743C72C400BB453BD4AD24E89.tmp' to '../../../../../../Users/Yunus/OneDrive/Desktop/GitHub Repos/BoneFrenzy/RogueLike_Beat/Content/Blueprints/Papaz.uasset'
+[2026.01.26-01.29.36:534][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.258 ms (total: 988.621 ms)
+[2026.01.26-01.29.36:563][386]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-01.29.36:563][386]LogContentValidation: Enabled validators:
+[2026.01.26-01.29.36:563][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-01.29.36:563][386]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-01.29.36:563][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-01.29.36:563][386]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-01.29.36:563][386]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-01.29.36:563][386]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-01.29.36:563][386]AssetCheck: /Game/Blueprints/Papaz Validating asset
+[2026.01.26-01.29.48:774][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.01.26-01.29.49:274][117]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.01.26-01.29.49:283][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.26-01.29.49:283][117]LogPlayLevel: Creating play world package: /Game/NewFolder/UEDPIE_0_MainLevel
+[2026.01.26-01.29.49:288][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004095s)
+[2026.01.26-01.29.49:288][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewFolder/MainLevel.MainLevel to /Game/NewFolder/UEDPIE_0_MainLevel.MainLevel (0.004123s)
+[2026.01.26-01.29.49:304][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.01.26-01.29.49:308][117]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.01.26-01.29.49:308][117]LogPlayLevel: PIE: World Init took: (0.001116s)
+[2026.01.26-01.29.49:309][117]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.01.26-01.29.49:309][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.26-01.29.49:309][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.26-01.29.49:309][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.26-01.29.49:309][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.26-01.29.49:309][117]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.26-01.29.49:309][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.26-01.29.49:309][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.26-01.29.49:309][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.26-01.29.49:309][117]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.26-01.29.49:309][117]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.26-01.29.49:309][117]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.26-01.29.49:311][117]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.26-01.29.49:453][117]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.01.26-01.29.49:453][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.26-01.29.49:453][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.26-01.29.49:453][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.26-01.29.49:454][117]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.01.26-01.29.49:454][117]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.01.26-01.29.49:456][117]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.01.26-01.29.49:456][117]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.01.26-01.29.49:456][117]LogInit: FAudioDevice initialized with ID 14.
+[2026.01.26-01.29.49:456][117]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainLevel'.
+[2026.01.26-01.29.49:456][117]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.01.26-01.29.49:483][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-01.29.49:483][117]LogLoad: Game class is 'BP_GameMode_C'
+[2026.01.26-01.29.49:484][117]LogWorld: Bringing World /Game/NewFolder/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2026.01.26-04.29.49
+[2026.01.26-01.29.49:484][117]LogWorld: Bringing up level for play took: 0.002456
+[2026.01.26-01.29.49:488][117]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2026.01.26-01.29.49:493][117]PIE: Server logged in
+[2026.01.26-01.29.49:494][117]PIE: Play in editor total start time 0.211 seconds.
+[2026.01.26-01.29.49:497][117]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Background'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.01.26-01.29.55:260][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.26-01.29.55:260][336]LogWorld: BeginTearingDown for /Game/NewFolder/UEDPIE_0_MainLevel
+[2026.01.26-01.29.55:261][336]LogSlate: Window 'RogueLike_Beat Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.01.26-01.29.55:301][336]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.29.55:303][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.29.55:312][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.26-01.29.55:318][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.29.55:336][336]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.26-01.29.55:336][336]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.01.26-01.29.55:336][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2026.01.26-01.29.55:338][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2026.01.26-01.29.55:365][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.01.26-01.29.55:403][337]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2026.01.26-01.29.55:886][366]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.01.26-01.29.56:989][416]LogEditorTransaction: Undo Changed Anchors
+[2026.01.26-01.29.57:838][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.26-01.29.57:864][459]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Widgets/Player_HP] ([2] browsable assets)...
+[2026.01.26-01.29.57:866][459]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Widgets/Player_HP.Player_HP]
+[2026.01.26-01.29.57:866][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/Player_HP]
+[2026.01.26-01.29.57:869][459]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/Player_HP
+[2026.01.26-01.29.57:869][459]LogSavePackage: Moving '../../../../../../Users/Yunus/OneDrive/Desktop/GitHub Repos/BoneFrenzy/RogueLike_Beat/Saved/Player_HPB60E66234535A65A3364B3A116D25D20.tmp' to '../../../../../../Users/Yunus/OneDrive/Desktop/GitHub Repos/BoneFrenzy/RogueLike_Beat/Content/Blueprints/Widgets/Player_HP.uasset'
+[2026.01.26-01.29.57:877][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.780 ms (total: 1.02 sec)
+[2026.01.26-01.29.57:901][459]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.26-01.29.57:901][459]LogContentValidation: Enabled validators:
+[2026.01.26-01.29.57:901][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.26-01.29.57:901][459]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.26-01.29.57:901][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.26-01.29.57:901][459]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.26-01.29.57:901][459]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.26-01.29.57:901][459]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.26-01.29.57:902][459]AssetCheck: /Game/Blueprints/Widgets/Player_HP Validating asset
+[2026.01.26-01.30.43:410][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.01.26-01.30.43:460][188]LogStall: Shutdown...
+[2026.01.26-01.30.43:460][188]LogStall: Shutdown complete.
+[2026.01.26-01.30.43:497][188]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.43:497][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.43:572][188]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.43:572][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.43:578][188]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.43:578][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.43:618][188]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.26-01.30.43:618][188]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.43:618][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.43:721][188]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.26-01.30.43:721][188]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.43:721][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.43:765][188]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.26-01.30.43:765][188]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.43:765][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.43:811][188]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.26-01.30.43:811][188]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.43:811][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.43:871][188]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.43:871][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.43:876][188]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.43:876][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.43:918][188]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.43:918][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.43:923][188]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.43:923][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.43:958][188]LogSlate: Window 'RogueLike_Beat - Unreal Editor' being destroyed
+[2026.01.26-01.30.43:959][188]LogWindowsTextInputMethodSystem: Activated input method: Türkçe (Türkiye) - (Keyboard).
+[2026.01.26-01.30.44:076][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.01.26-01.30.44:094][189]Cmd: QUIT_EDITOR
+[2026.01.26-01.30.44:094][189]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.01.26-01.30.44:098][189]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.01.26-01.30.44:099][189]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.01.26-01.30.44:099][189]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.01.26-01.30.44:100][189]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.44:100][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.44:109][189]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.01.26-01.30.44:109][189]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.01.26-01.30.44:114][189]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.44:114][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.44:117][189]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.44:117][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.44:118][189]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.44:119][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.44:120][189]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.44:121][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.44:123][189]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.44:123][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.44:124][189]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.44:124][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.44:127][189]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.44:127][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.44:128][189]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.44:128][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.44:130][189]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.44:130][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.44:131][189]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.44:131][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.44:133][189]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.44:133][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.44:134][189]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.44:134][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.44:137][189]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.44:137][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.44:139][189]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.44:139][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.44:140][189]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.01.26-01.30.44:140][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.26-01.30.44:142][189]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.01.26-01.30.44:144][189]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.01.26-01.30.44:144][189]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.01.26-01.30.44:144][189]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.01.26-01.30.44:670][189]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.01.26-01.30.44:670][189]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.01.26-01.30.44:670][189]LogAudio: Display: Audio Device unregistered from world 'MainLevel'.
+[2026.01.26-01.30.44:670][189]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.01.26-01.30.44:670][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.01.26-01.30.44:672][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.01.26-01.30.44:675][189]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.01.26-01.30.44:675][189]LogAudio: Display: Audio Device Manager Shutdown
+[2026.01.26-01.30.44:679][189]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.01.26-01.30.44:679][189]LogExit: Preparing to exit.
+[2026.01.26-01.30.44:712][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.44:716][189]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.26-01.30.45:112][189]LogEditorDataStorage: Deinitializing
+[2026.01.26-01.30.45:192][189]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.01.26-01.30.45:202][189]LogExit: Editor shut down
+[2026.01.26-01.30.45:203][189]LogExit: Transaction tracking system shut down
+[2026.01.26-01.30.45:290][189]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 7.
+[2026.01.26-01.30.45:304][189]LogExit: Object subsystem successfully closed.
+[2026.01.26-01.30.45:397][189]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.01.26-01.30.45:887][189]LogMemoryProfiler: Shutdown
+[2026.01.26-01.30.45:887][189]LogNetworkingProfiler: Shutdown
+[2026.01.26-01.30.45:887][189]LoadingProfiler: Shutdown
+[2026.01.26-01.30.45:887][189]LogTimingProfiler: Shutdown
+[2026.01.26-01.30.46:269][189]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.01.26-01.30.46:299][189]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.01.26-01.30.46:299][189]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B84C5D465-4848-42C0-5DAD-3D83113C6933%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=7aad1591482c6fd64a0634bc57b39267%7C1fd096a37f37457f8f477e212322b781%7C1fdbfa62-6760-42b1-953a-66e5a6c09ea5&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.01.26-01.30.46:859][189]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.01.26-01.30.46:867][189]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2026.01.26-01.30.46:867][189]LogNFORDenoise: NFORDenoise function shutting down
+[2026.01.26-01.30.46:867][189]RenderDocPlugin: plugin has been unloaded.
+[2026.01.26-01.30.46:867][189]LogXGEController: Cleaning working directory: C:/Users/Yunus/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.01.26-01.30.46:869][189]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.01.26-01.30.46:869][189]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.01.26-01.30.46:869][189]LogPakFile: Destroying PakPlatformFile
+[2026.01.26-01.30.47:588][189]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.01.26-01.30.47:696][189]LogExit: Exiting.
+[2026.01.26-01.30.47:723][189]Log file closed, 01/26/26 04:30:47
